@@ -1,0 +1,1 @@
+this is a complete backend for library management system ..it does not contain any frontend part...the api are tested using the postman app ...also the email sending is also implemented currency conversion is also implemented int his...the concept of dto is clearly explained  also the mapper and helper are implemented..
